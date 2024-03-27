@@ -9,8 +9,8 @@ public class carmaking {
 
     }
     public static void main(String[] args) {
-        carmaking mycar = new carmaking("dodge", 1930);
-        System.out.println(mycar.carname + " "+ mycar.caryear);
+        carmaking mycar1 = new carmaking("dodge", 1930);
+        System.out.println(mycar1.carname + " "+ mycar1.caryear);
 
     }
 
